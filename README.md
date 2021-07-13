@@ -8,7 +8,7 @@ Image is link to the video too :)
 [![Project #4 "Network" ](https://github.com/NataTimos/CS50-Web-Network/blob/main/network.png)](https://youtu.be/iybacr7EjFY)
 
 ### Example of application work
-![gif image of index page](https://github.com/NataTimos/CS50-Web-Wiki/blob/main/Wiki.gif)
+![gif image of index page](https://github.com/NataTimos/CS50-Web-Network/blob/main/network.gif)
 
 ### Technology stack:
 Python, Django, JS, HTML, CSS
